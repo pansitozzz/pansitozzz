@@ -1,21 +1,21 @@
 ### Hola, soy Frank 👋
 
-Estudiante de Ingeniería de Sistemas (UNTELS, 9no ciclo), enfocado en desarrollo backend/full-stack con proyectos reales fuera del aula.
+Estudiante de Ingeniería de Sistemas en la **UNTELS (9.º ciclo)**, orientado al **desarrollo de software y backend**. He trabajado en proyectos con Python/Django, Java/Spring Boot, APIs REST, bases de datos relacionales y despliegue de aplicaciones.
 
-**Stack principal:** Python · Java · Django · PostgreSQL · SQL Server · MySQL · Git
+**Stack principal:** Python · Java · Django · Spring Boot · PostgreSQL · MySQL · SQL Server · Git · Docker
 
 ---
 
 ### Proyectos destacados
 
-- **[apibiblioteca](https://github.com/pansitozzz/apibiblioteca)** — API REST para gestión de biblioteca universitaria con préstamos, reservas y control de multas, con frontend en Angular.
-- **[incidentes-practica](https://github.com/pansitozzz/incidentes-practica)** — Aplicación web en Django que registra incidentes técnicos y los ordena automáticamente por urgencia, combinando prioridad, tiempo abierto y contrato SLA del cliente.
-- **[pastadental](https://github.com/pansitozzz/pastadental)** — Shooter en primera persona sobre higiene bucal hecho en Unity para el curso de Desarrollo de Juegos.
-- **[trs-notificaciones](https://github.com/pansitozzz/trs-notificaciones)** — Sistema web de gestión de maquinaria y trabajadores con notificaciones en tiempo real de mantenimientos, asignaciones y eventos.
+- **[incidentes-practica](https://github.com/pansitozzz/incidentes-practica)** — Aplicación web en Django para registrar y priorizar incidentes técnicos según urgencia, tiempo abierto y SLA.
+- **[apibiblioteca](https://github.com/pansitozzz/apibiblioteca)** — API REST para gestión de biblioteca universitaria, desarrollada con Spring Boot, PostgreSQL y frontend en Angular.
+- **[trs-notificaciones](https://github.com/pansitozzz/trs-notificaciones)** — Sistema web en Django para gestión de maquinaria, trabajadores y notificaciones de mantenimiento; desplegado previamente en producción.
+- **[pastadental](https://github.com/pansitozzz/pastadental)** — Shooter educativo en primera persona desarrollado en Unity y C# como proyecto universitario.
 
 ---
 
-### Certificaciones en curso
+### Formación complementaria
 
-- Curso de Anthropic sobre uso de IA (en curso)
-- Curso de Harvard sobre programación y bases de datos (en curso)
+- **Claude 101 — Claude Academy (Anthropic), 2026** — [Ver credencial](https://academy.claude.com/verify/54cc4c01edb1bce1233e2828aa6e4051)
+- **AI Capabilities and Limitations — Claude Academy (Anthropic), 2026** — [Ver credencial](https://academy.claude.com/verify/17e0edb4d70ed02f6619a139a77f0cc9)
