@@ -1,6 +1,6 @@
 # Hola, soy Frank 👋
 
-Estudiante de **Ingeniería de Sistemas en la UNTELS (9.º ciclo)**, orientado al **desarrollo de software y backend**. He trabajado con Python/Django, Java/Spring Boot, APIs REST, bases de datos relacionales y despliegue de aplicaciones web.
+Estudiante de **Ingeniería de Sistemas en la UNTELS (10.º ciclo)**, orientado al **desarrollo de software y backend**. He trabajado con Python/Django, Java/Spring Boot, APIs REST, bases de datos relacionales y despliegue de aplicaciones web.
 
 Actualmente busco oportunidades como **Practicante de Desarrollo de Software, Backend Developer Intern / Junior o Practicante de Sistemas orientado a desarrollo**.
 
